@@ -1,1 +1,1 @@
-# OC-XPS-13-9300
+# Hackintosh OpenCore XPS 13 9300
