@@ -1,5 +1,6 @@
 [[ -f ~/Downloads/gfxutil.sh ]] && source ~/Downloads/gfxutil.sh
 
+# https://github.com/Not-a-true-statement/OC-XPS-13-9300
 getvar () {
 	thevar=""
 	theflags=""

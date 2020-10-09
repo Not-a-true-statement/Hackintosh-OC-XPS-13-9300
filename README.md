@@ -1,4 +1,5 @@
 # Hackintosh OpenCore XPS 13 9300
+Use this guide on your own risk.
 
 # Configuration
 ## Hardware
@@ -14,9 +15,6 @@
 | **Fingerprint reader** ||
 | **Windows Hello** | |
 | **SD Reader** ||
-
-## Bios
-To be added
 
 # What works and what doesn't
 
@@ -36,3 +34,9 @@ To be added
 | **Fingerprint reader** | ❌ Not working | Probably will never work, disabled to save power. |
 | **Windows Hello** | ❌ Not working | Probably will never work, disabled to save power. |
 | **SD Reader** | ❌ Not tested||
+
+# Bios
+## Info
+This is for bios version 1.2.0, but make sure the values are valid for your bios, whatever the version.
+## CFG Lock enable
+Copy contents of Bios modification to Downloads folder. Run cfglock.sh as sudo. Make sure the values are correct. Edit the script, uncomment putvar and run as sudo again.
