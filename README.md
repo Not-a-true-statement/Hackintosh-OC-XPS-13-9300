@@ -33,7 +33,7 @@ Use this guide on your own risk.
 | **SSD** | ✅ Working ||
 | **Fingerprint reader** | ❌ Not working | Probably will never work, disabled to save power. |
 | **Windows Hello** | ❌ Not working | Probably will never work, disabled to save power. |
-| **SD Reader** | ❌ Not tested||
+| **SD Reader** | ✅ Working ||
 
 # Bios
 ## Info
