@@ -39,4 +39,10 @@ Use this guide on your own risk.
 ## Info
 This is for bios version 1.2.0, but make sure the values are valid for your bios, whatever the version.
 ## CFG Lock enable
-Copy contents of Bios modification to Downloads folder. Run cfglock.sh as sudo. Make sure the values are correct. Edit the script, uncomment putvar and run as sudo again.
+
+This should be done in macOS or linux.
+
+1. Copy contents of Bios modification to Downloads folder (~/Downloads/HERE).
+2. Run cfglock.sh as sudo.
+3. Make sure the values are correct.
+4. Edit the script, uncomment putvar and run as sudo again.
