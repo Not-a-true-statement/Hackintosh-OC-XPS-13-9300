@@ -23,7 +23,7 @@ Use this guide on your own risk.
 | **Intel iGPU** | ✅ Working ||
 | **Display** | 🔶 Partially working | The display is scrambled unless there is an external monitor connected through usb-c|
 | **Trackpad** |  🔶 Partially working |Left mouse click highlights instead of normal click.|
-| **iMessages and App Store** | ❌ Not tested ||
+| **iMessages and App Store** | ✅ Working ||
 | **Speakers and Headphones** | ❌ Not tested ||
 | **Built-in Microphone** | ❌ Not tested ||
 | **Webcam** | ❌ Not tested ||
